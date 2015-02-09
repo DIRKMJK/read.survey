@@ -1,0 +1,9 @@
+Package: read.survey
+Type: Package
+Title: Open Surveymonkey data export file
+Version: 1.0
+Date: 2015-02-09
+Author: Dirk Kloosterboer
+Maintainer: Dirk Kloosterboer <info@dirkmjk.nl>
+Description: Deal with problems that arise from the fact that Surveymonkey data export files have answer categories and other information in the second row.
+License: MIT

@@ -1,0 +1,9 @@
+{
+    "path" : "~/Verwerken/surveymonkey_r_package/read.survey",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
